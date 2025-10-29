@@ -62,27 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1524&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1524&layout=compact&theme=radical&border_radius=10&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu1524&theme=radical&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1524&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
