@@ -61,6 +61,15 @@
 </div>
 
 ---
+## 🐍 Dynamic Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Priyanshu1524/Priyanshu1524/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 
 ## 🌐 Connect with Me
 
