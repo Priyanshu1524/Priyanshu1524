@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there, I'm **Priyanshu Tripathi**  
-### 🎓 *Computer Science @ BITS Pilani, Hyderabad*  
+### 🎓 *I am a Final Year Computer Science Student from Bits Pilani*  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=440&lines=💻+Full+Stack+Developer;🧠+DSA+%26+System+Design+Enthusiast;🚀+Always+Learning+Something+New" alt="Typing SVG" />
 
@@ -48,8 +48,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 🏆 Competitive Programming
 <div align="center">
 
 | Platform | Badge | Stats |
@@ -61,8 +59,6 @@
 
 
 ---
-
-## 🐍 Contribution Snake Animation
 
 <div align="center">
 
