@@ -2,10 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu Tripathi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
-
 ### 🎓 CS Student @ BITS Pilani, Hyderabad
-### 💼 Ex-SDE Intern @ Solutionec
 
 </div>
 
@@ -13,10 +10,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Building full-stack applications with **React, Node.js & Flask**
-- 💡 Passionate about **Data Structures & Algorithms**
+- 💻 Full-stack developer specializing in **React, Node.js & Flask**
+- 🧠 Passionate about **Data Structures, Algorithms & Problem Solving**
 - 🏆 **Codeforces Specialist** (Max Rating: 1529)
-- 🗡️ **LeetCode Knight** (Top 5.6% of all users)
+- 🗡️ **LeetCode Knight** (Top 5.6% globally)
+- 🌱 Always learning and building something new
 - 📍 Based in Hyderabad, India
 - 📫 Reach me: **ptripat408@gmail.com**
 
@@ -30,25 +28,60 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools:**  
+**Frontend:**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+
+**Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🏆 Competitive Programming Achievements
+
+<div align="center">
+
+| Platform | Achievement | Stats |
+|----------|-------------|-------|
+| 🟣 **Codeforces** | Specialist | Max Rating: **1529** |
+| 🟠 **LeetCode** | Knight | Top **5.6%** Globally |
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1524&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu1524&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu1524&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu1524&layout=compact&theme=radical&border_radius=10&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu1524&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu1524&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
 
 ## 🌐 Connect with Me
 
@@ -65,7 +98,7 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu1524&color=blue&style=flat)
+### 💡 "Code is like humor. When you have to explain it, it's bad!" - Cory House
 
 ⭐️ From [Priyanshu1524](https://github.com/Priyanshu1524)
 
